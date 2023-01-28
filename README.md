@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Languages and tools: Python / Django / Django REST Framework / SQL / Docker and docker-compose / Yandex.Cloud / Git / Github.Actions / Nginx / Unittest / Linux / HTML / CSS / Bootstrap
+Languages and tools: Python / Django / Django REST Framework / FastAPI / SQL / Docker and docker-compose / Yandex.Cloud / Git / Github.Actions / Nginx / Unittest / Linux / HTML / CSS / Bootstrap
 
 ### Contact me:
 
